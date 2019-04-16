@@ -43,5 +43,5 @@ The goal of these challenges is to use FlatList to display cat and dog breed inf
   - Export the component, and import it where your component uses FlatList. 
   - renderItem should return this component. Be sure to set item as data prop. 
 4. Customize the List Cell component you made in the previous step. 
-  - Grab some of the properties off the data object. Not every breed has all properties! Think of some way to display all proprties that exist on each object. 
+  - Grab some of the properties off the data object. Not every breed has all properties! Think of some way to display all proprties that exist on each object.
 5. Display cats and dogs. You'll need a UI element to choose the pet type. On iOS you can use SegmentedControlIOS. On Android you can use one or buttons, there are also a couple [third party segmented controls](https://stackoverflow.com/questions/35313387/segmentedcontrolios-for-android-in-react-native)
